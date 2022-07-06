@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GordonBDennis
-- 👀 I’m interested in astrophysics
-- 🌱 I’m currently learning astropy
-- 💞️ I’m looking to collaborate on ...
+- Hi, I’m @GordonBDennis
+- I’m interested in astrophysics
+- I’m currently learning astropy
+- I’m not currently looking to collaborate
 - 📫 How to reach me ...
 
 <!---
