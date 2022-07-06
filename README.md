@@ -1,6 +1,6 @@
 - Hi, I’m @GordonBDennis
-- I’m interested in astrophysics
-- I’m currently learning astropy
+- I’m an astrophysics
+- I develoop Python programs for astronomical data analysis.  I’m currently learning various aspectts of astropy
 - I’m not currently looking to collaborate
 - 📫 How to reach me ...
 
